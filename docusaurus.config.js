@@ -9,12 +9,12 @@ const config = {
   title: 'Blue Sky',
   tagline: 'A FiveM custom framework.',
   url: 'https://GitScorz.github.io',
-  baseUrl: '/bluesky/',
+  baseUrl: '/bluesky-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Scorz',
-  projectName: 'bluesky',
+  organizationName: 'GitScorz',
+  projectName: 'bluesky-documentation',
 
   i18n: {
     defaultLocale: 'en',
