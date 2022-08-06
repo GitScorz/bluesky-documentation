@@ -34,7 +34,7 @@ Chat component is added ontop of a modified FiveM chat resource, this has been m
 #### `RegisterAdminCommand`
 - __Parameters__: <span style={{color: '#cecece'}}>`command: string, callback: function, suggestion: table, arguments: number`</span>
 - __Return__: <span style={{color: '#cecece'}}>`None`</span>
-- __Description__: <span style={{color: '#cecece'}}>Registers a command only admins can use. Admin access is controlled through the [Player entity](core/player.md#entity)</span>
+- __Description__: <span style={{color: '#cecece'}}>Registers a command only admins can use. Admin access is controlled through the [Player entity](../../core/core.md)</span>
 
 #### `ClearAll`
 - __Parameters__: <span style={{color: '#cecece'}}>`None`</span>

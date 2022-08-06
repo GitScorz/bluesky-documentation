@@ -8,7 +8,7 @@ sidebar_label: Contributing Info
 
 To start off, thank you! This project wouldn't be what it is if it weren't for the amazing community around it building it to become an even better product. Seriously, you rock! 🤗
 
-The following is a set of guidelines for contributing to Blue Sky Framework and its other resources, which are hosted in the [Blue Sky Development organization]([https://github.com/BlueSky-Development](https://github.com/BlueSky-Development)) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to Blue Sky Framework and its other resources, which are hosted in the [Blue Sky Development organization](https://github.com/BlueSky-Development) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 #### Table Of Contents
 [Code of Conduct](#code-of-conduct)

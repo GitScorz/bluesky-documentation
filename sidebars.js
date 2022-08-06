@@ -28,6 +28,20 @@ const sidebars = {
       type: 'category',
       label: 'Documentation',
       items: [
+        {
+          type: 'category',
+          label: 'General',
+          items: [
+            {
+              type: 'doc',
+              id: 'component',
+            },
+            {
+              type: 'doc',
+              id: 'exports',
+            },
+          ]
+        },
         // Core Components
         {
           type: 'category',

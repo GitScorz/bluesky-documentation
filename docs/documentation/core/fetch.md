@@ -12,7 +12,7 @@ sidebar_label: Fetch
 </table>
 </div>
 
-This component is how you retrieve player data created from the [Player Component](/docs/core/player).
+This component is how you retrieve player data created from the [Player Component](player.md).
 
 ## Required Attributes
 ------
