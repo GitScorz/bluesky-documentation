@@ -8,6 +8,8 @@ tags:
 
 First things first, you need to install the node modules in each resource that is required down below, make sure you go that resource and open the **ui** folder and then do the following command.
 
+## To Install
+
 ```bash
 npm install
 ```
@@ -16,7 +18,17 @@ or
 yarn
 ```
 
-The current resources that need to be installed are:
+## To Build
+
+```bash
+npm run build
+```
+or
+```bash
+yarn build
+```
+
+The current resources that need to be installed & builded are:
  
 - bs_base
 - bs_api
@@ -29,7 +41,7 @@ The current resources that need to be installed are:
 - bs_radio
 - bs_ui
 
-Once the modules are installed, you need to setup the convars a `.cfg` file.
+Once the modules are installed & builded, you need to setup the convars a `.cfg` file.
 
 Read more about convars [**here**](convars.md).
 
