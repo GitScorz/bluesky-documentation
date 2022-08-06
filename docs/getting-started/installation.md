@@ -27,7 +27,6 @@ The current resources that need to be installed are:
 - bs_loadscreen
 - bs_mdt
 - bs_radio
-- bs_voip
 
 Once the modules are installed, you need to setup the convars a `.cfg` file.
 
