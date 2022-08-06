@@ -29,7 +29,7 @@ The current resources that need to be installed are:
 - bs_radio
 - bs_voip
 
-Once the modules are installed, you need to setup the convars with the following command in a `.cfg` file.
+Once the modules are installed, you need to setup the convars a `.cfg` file.
 
-Read more about convars [**here**](convars).
+Read more about convars [**here**](convars.md).
 
