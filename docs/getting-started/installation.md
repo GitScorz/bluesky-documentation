@@ -31,6 +31,7 @@ The current resources that need to be installed & builded are:
  
 - bs_base
 - bs_api
+- bs_ped
 - bs_menu
 - bs_bank
 - bs_characters
