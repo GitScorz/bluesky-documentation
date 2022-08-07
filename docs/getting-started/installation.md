@@ -7,9 +7,6 @@ tags:
 ---
 
 First things first, you need to install the node modules in each resource that is required down below, make sure you go that resource and open the **ui** folder and then do the following command.
-
-Make sure you are using Node v16.x.x.
-
 ## To Install
 
 ```bash
