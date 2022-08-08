@@ -1,6 +1,6 @@
 ---
 id: user-interface
-title: UI
+title: UI Component
 sidebar_label: Component
 ---
 
