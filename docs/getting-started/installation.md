@@ -29,7 +29,7 @@ yarn build
 
 The current resources that need to be installed & builded are:
  
-- bs_base
+- bs_base (we don't need to build this one)
 - bs_api
 - bs_ped
 - bs_menu
