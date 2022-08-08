@@ -12,5 +12,5 @@ These requirements assume you are using it as intended, if you create a new comp
 * [Yarn](https://yarnpkg.com/getting-started/install) (*Preferred but not required*)
 * [MongoDB](https://www.mongodb.com/)
 * [Discord Bot API Key](https://discordapp.com/developers/applications/)
-* [Cfx Server Data](https://github.com/citizenfx/cfx-server-data) (*mapmanager, spawnmanager, sessionmanager, basic-gamemode, hardcap, rconlog*)
+* [Cfx Server Data](https://github.com/citizenfx/cfx-server-data)
 * [A Brain](https://en.wikipedia.org/wiki/Brain)
