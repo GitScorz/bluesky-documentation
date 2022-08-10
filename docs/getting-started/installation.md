@@ -35,10 +35,9 @@ The current resources that need to be installed & builded are:
 - bs_menu
 - bs_bank
 - bs_characters
-- bs_inventory
+- bs_inventory (use the old one for now `bs_inventory-old`)
 - bs_loadscreen
 - bs_mdt
-- bs_radio
 - bs_ui
 
 Once the modules are installed & builded, you need to setup the convars a `.cfg` file.
