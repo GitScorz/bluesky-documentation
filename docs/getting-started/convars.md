@@ -9,7 +9,7 @@ tags:
 
 Convars can be very powerful for defining configuration variables on the server. A convar is basically a configuration variable that you can set and get from any resource. You don't have to use a resource to get or set these values, you can also use commands in the (server) console or through a RCON client.
 
-Make sure you put this in a `.cfg` file.
+Make sure you set this in a `.cfg` file.
 
 ## Base
 ```bash
@@ -50,4 +50,4 @@ setr voice_useSendingRangeOnly true
 
 You can check more convars for **Voip** at [**pma-voice**](https://github.com/AvarianKnight/pma-voice) github repository.
 
-Once that convars are done you need to have the [**MongoDB**](https://www.mongodb.com/) installed and the databases created, I'm pretty sure you can start the server normally after that :D
+Once that convars are done you need to have [**MongoDB**](https://www.mongodb.com/) installed and the databases created, I'm pretty sure you can start the server normally after that :D
