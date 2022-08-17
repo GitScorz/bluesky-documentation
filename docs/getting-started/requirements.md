@@ -13,4 +13,4 @@ These requirements assume you are using it as intended, if you create a new comp
 * [MongoDB](https://www.mongodb.com/)
 * [Discord Bot API Key](https://discordapp.com/developers/applications/)
 * [Cfx Server Data](https://github.com/citizenfx/cfx-server-data)
-* [A Brain](https://en.wikipedia.org/wiki/Brain)
+* [A Brain](https://en.wikipedia.org/wiki/Human_brain)
