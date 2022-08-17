@@ -35,7 +35,7 @@ The current resources that need to be installed & builded are:
 - bs_menu
 - bs_bank
 - bs_characters
-- bs_inventory (use the old one for now `bs_inventory-old`)
+- bs_inventory
 - bs_loadscreen
 - bs_mdt
 - bs_ui
