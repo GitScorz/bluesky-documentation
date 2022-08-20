@@ -22,6 +22,10 @@ const sidebars = {
           type: 'doc',
           id: 'getting-started/convars',
         },
+        {
+          type: 'doc',
+          id: 'getting-started/resources',
+        },
       ],
     },
     {
