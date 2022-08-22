@@ -76,4 +76,12 @@ ensure bs_voip
 ensure bs_wallet
 ensure bs_vehicles
 ensure bs_ui
+ensure bs_peek
+ensure bs_news
+
+# Devtools
+ensure fivem-koil-debug
+
+# Assets
+ensure assets_minimap
 ```
